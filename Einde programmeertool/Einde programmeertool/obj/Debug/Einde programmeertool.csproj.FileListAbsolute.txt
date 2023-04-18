@@ -1,0 +1,10 @@
+C:\Users\S\OneDrive\Documenten\mbo 4\kurt\eind programmeertool\Einde programmeertool\Einde programmeertool\bin\Debug\Einde programmeertool.exe.config
+C:\Users\S\OneDrive\Documenten\mbo 4\kurt\eind programmeertool\Einde programmeertool\Einde programmeertool\bin\Debug\Einde programmeertool.exe
+C:\Users\S\OneDrive\Documenten\mbo 4\kurt\eind programmeertool\Einde programmeertool\Einde programmeertool\bin\Debug\Einde programmeertool.pdb
+C:\Users\S\OneDrive\Documenten\mbo 4\kurt\eind programmeertool\Einde programmeertool\Einde programmeertool\obj\Debug\Einde programmeertool.csproj.AssemblyReference.cache
+C:\Users\S\OneDrive\Documenten\mbo 4\kurt\eind programmeertool\Einde programmeertool\Einde programmeertool\obj\Debug\Einde_programmeertool.frmEinde.resources
+C:\Users\S\OneDrive\Documenten\mbo 4\kurt\eind programmeertool\Einde programmeertool\Einde programmeertool\obj\Debug\Einde_programmeertool.Properties.Resources.resources
+C:\Users\S\OneDrive\Documenten\mbo 4\kurt\eind programmeertool\Einde programmeertool\Einde programmeertool\obj\Debug\Einde programmeertool.csproj.GenerateResource.cache
+C:\Users\S\OneDrive\Documenten\mbo 4\kurt\eind programmeertool\Einde programmeertool\Einde programmeertool\obj\Debug\Einde programmeertool.csproj.CoreCompileInputs.cache
+C:\Users\S\OneDrive\Documenten\mbo 4\kurt\eind programmeertool\Einde programmeertool\Einde programmeertool\obj\Debug\Einde programmeertool.exe
+C:\Users\S\OneDrive\Documenten\mbo 4\kurt\eind programmeertool\Einde programmeertool\Einde programmeertool\obj\Debug\Einde programmeertool.pdb
